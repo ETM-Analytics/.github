@@ -1,6 +1,10 @@
 # .github
 
-Organisation-wide defaults for ETM-Analytics. A repository that has no template of its own
-uses the ones here.
+Organisation-wide defaults for [ETM-Analytics](https://github.com/ETM-Analytics).
 
-- `pull_request_template.md`: the default pull request description
+| File | What |
+|---|---|
+| `pull_request_template.md` | Default pull request template for every repo |
+| `profile/README.md` | The public organisation profile shown on github.com/ETM-Analytics |
+
+The members-only overview (repos, environments, how we work) lives in the private repo `.github-private`.
